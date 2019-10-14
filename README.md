@@ -7,7 +7,8 @@ Users visiting the website should be able to search for GIFs and see a list of r
 
 Users should have a good user experience on desktop, tablet and mobile devices.
 
-- Technologies to be used: **ES6**, **TDD**, **React.js** and **SCSS** or **LESS**,
+- Technologies to be used: **ES6**, **TDD**, **React.js** and **SCSS** or **LESS**.
+- We follow the TDD philosophy, create a test red, making pass GREEN, refactor and commit.
 
 ## What's to deliver
 
